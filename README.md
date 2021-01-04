@@ -12,6 +12,6 @@ Welcome to the official [CUSEC 2021 HackaComm](https://2021.cusec.net/hackacomm)
 Steps to submit your code and presentations:
 1. Please ensure your code is submitted before 11:59 pm EST January 7, 2021!
 1. Submit a Pull Request to this repo that includes:
-   1. a folder with your team name (e.g `example-team`) inside `team-submissions` folder
-   1. raw code or a link to the public repo where your code is hosted
-   1. raw presentation or a link to your presentation
+   1. a folder with your team name (e.g `example-team`) inside the `team-submissions` folder
+   1. a link to the public repo where your code is hosted
+   1. a link to your presentation or the presentation file
